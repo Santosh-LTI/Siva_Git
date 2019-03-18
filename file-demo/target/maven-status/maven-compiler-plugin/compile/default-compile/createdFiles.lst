@@ -1,0 +1,13 @@
+com\example\filedemo\controller\FileController.class
+com\example\filedemo\model\Transcationfield.class
+com\example\filedemo\model\TransTable.class
+com\example\filedemo\FileDemoApplication.class
+com\example\filedemo\operation\Writefile.class
+com\example\filedemo\operation\Readfile.class
+com\example\filedemo\payload\UploadFileResponse.class
+com\example\filedemo\operation\Readfile$1.class
+com\example\filedemo\property\FileStorageProperties.class
+com\example\filedemo\ServiceRepository.class
+com\example\filedemo\service\FileStorageService.class
+com\example\filedemo\exception\FileStorageException.class
+com\example\filedemo\exception\MyFileNotFoundException.class
